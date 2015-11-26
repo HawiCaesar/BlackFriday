@@ -1,0 +1,28 @@
+F1,a:	http://www.kilimall.co.ke/item-11454-Loving-Life--EA-Egg-Steamer-%2528Kitchen-item%2529-Yellow.html","http://www.kilimall.co.ke/item-11454-Loving-Life--EA-Egg-Steamer-%2528Kitchen-item%2529-Yellow.html
+F1,b:	http://www.kilimall.co.ke/item-8868-TAG-Kitchen--Stainless-Steel-Onion-Chopper.html","http://www.kilimall.co.ke/item-8868-TAG-Kitchen--Stainless-Steel-Onion-Chopper.html
+F1,c:	http://www.kilimall.co.ke/item-8871-TAG-Kitchen--24-CUP-MUFFIN-BAKING-TRAY---BAKER%2527S-SECRET.html","http://www.kilimall.co.ke/item-8871-TAG-Kitchen--24-CUP-MUFFIN-BAKING-TRAY---BAKER%2527S-SECRET.html
+F1,d:	http://www.kilimall.co.ke/item-7380-Loving-Life--Tableware-24-Fork-And-knife-set-04-%2528Kitchen-item%2529.html
+
+F2,a:	http://www.kilimall.co.ke/item-9810-Kitchen-7-piece-cooking--pots--Sufurias-with-handles-and-lids.html","http://www.kilimall.co.ke/item-9810-Kitchen-7-piece-cooking--pots--Sufurias-with-handles-and-lids.html
+F2,b:	http://www.kilimall.co.ke/item-11709-KITCHEN-Genius-Nicer-Dicer-Plus-Multi-Chopper-12-Pieces-Green.html","http://www.kilimall.co.ke/item-11709-KITCHEN-Genius-Nicer-Dicer-Plus-Multi-Chopper-12-Pieces-Green.html
+F2,c:	http://www.kilimall.co.ke/item-11307-Kitchen-Stainless-Steel-Dish-Rack--2-Tier.html","http://www.kilimall.co.ke/item-11307-Kitchen-Stainless-Steel-Dish-Rack--2-Tier.html
+F2,d:	http://www.kilimall.co.ke/item-9693-Kitchen-Spice-Organizer--Creative-Tree-Shaped-Pop-up-Spice-Rack-with-6-Spice-Container.html","http://www.kilimall.co.ke/item-9693-Kitchen-Spice-Organizer--Creative-Tree-Shaped-Pop-up-
+
+F3,a:	http://www.kilimall.co.ke/item-10332-Pink-Telken-7-Piece-Non-Stick-Cookware-Kitchen-Set.html","http://www.kilimall.co.ke/item-10332-Pink-Telken-7-Piece-Non-Stick-Cookware-Kitchen-Set.html
+F3,b:	http://www.kilimall.co.ke/item-10313-Kitchen-Pancake-Maker--Round-Shape.html","http://www.kilimall.co.ke/item-10313-Kitchen-Pancake-Maker--Round-Shape.html
+F3,c:	http://www.kilimall.co.ke/item-5471-Non-Stick-kitchen-serving-spoons--7-Pieces..html
+F3,d:	http://www.kilimall.co.ke/item-10312-Stainless-Rice-pasta-cooker---4L-Rice-cooker.html
+
+F4,a:	http://www.kilimall.co.ke/item-2581-Four-piece-pure-cotton-duvet-cover-sets-double-color-5%252A6.html
+F4,b:	http://www.kilimall.co.ke/item-9647-Yellow-duvet-with-flower-details-xh569-Multicolor-5%252A6.html
+F4,c:	http://www.kilimall.co.ke/item-8893-Four-piece-High-quality-thick-100%2525cotton-duvet-cover-sets-Multicolor-5%252A6.html
+F4,d:	http://www.kilimall.co.ke/item-9995-Two-piece-multicolor-pillow-case-%2528New-richcel-cotton%2529-Multicolor-48cm%252A76cm.html
+
+Link to SHOP
+F1 Main Link:	http://lovinglife.kilimall.co.ke/
+
+F2 Main Link:	http://skymaxenterprise.kilimall.co.ke/
+
+F3: Main Link:	http://shawanafricaltd.kilimall.co.ke/
+
+F4: Main Link:	http://live.kilimall.co.ke/index.php?act=special&op=special_detail&special_id=60

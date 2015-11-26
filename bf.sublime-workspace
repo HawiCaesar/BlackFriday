@@ -1,0 +1,1101 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"products"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-height: 〔property〕"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"clas",
+				"class=〔attribute〕"
+			],
+			[
+				"norm",
+				"normSw"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"cen",
+				"centered"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"sho",
+				"shown"
+			],
+			[
+				"A",
+				"17A4E1"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"cc",
+				"cc6699"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"ccc",
+				"ccc"
+			],
+			[
+				"dis",
+				"disabled	Attr"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"Im",
+				"important"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"clos",
+				"closing"
+			],
+			[
+				"remov",
+				"removeClass('active"
+			],
+			[
+				"tyo",
+				"type=checkbox"
+			],
+			[
+				"prop",
+				"prop('checked"
+			],
+			[
+				"ref",
+				"ref_allsignups"
+			],
+			[
+				"ref_all",
+				"ref_allsignups"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"acce",
+				"accepted"
+			],
+			[
+				"signup",
+				"signups"
+			],
+			[
+				"ref_",
+				"ref_allsignups"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"c66",
+				"cc6666"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"addCla",
+				"addClass('active"
+			],
+			[
+				"list",
+				"listParent"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"ad",
+				"addClass〔function〕"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"E",
+				"Eskay"
+			],
+			[
+				"span",
+				"span6"
+			],
+			[
+				"sea",
+				"searchList"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"de",
+				"detach〔function〕"
+			],
+			[
+				"anima",
+				"animated"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"inser",
+				"insertHTML〔variable〕"
+			],
+			[
+				"border-le",
+				"border-bottom-left-radius"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"num",
+				"numItems〔variable〕"
+			],
+			[
+				"end",
+				"endOn〔variable〕"
+			],
+			[
+				"start",
+				"startAt〔variable〕"
+			],
+			[
+				"show",
+				"showMeta"
+			],
+			[
+				"nu",
+				"numItems"
+			],
+			[
+				"curr",
+				"curr_child〔variable〕"
+			],
+			[
+				"per",
+				"perPage〔variable〕"
+			],
+			[
+				"chil",
+				"children〔variable〕"
+			],
+			[
+				"child",
+				"childCheckbox"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"si",
+				"signUpNewletter"
+			],
+			[
+				"spa",
+				"span6"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"camp",
+				"campaignLandingSwiper"
+			],
+			[
+				"valid",
+				"valid_Val"
+			],
+			[
+				"act",
+				"activity"
+			],
+			[
+				"insert",
+				"insertHTML"
+			],
+			[
+				"clone",
+				"cloneHTML"
+			],
+			[
+				"cont",
+				"contributionDesc"
+			],
+			[
+				"addre",
+				"addressDesc"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"acr",
+				"act_area"
+			],
+			[
+				"acti",
+				"activityDesc"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"y",
+				"your"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-left-radius"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"des",
+				"destroyMobslider〔function〕"
+			],
+			[
+				"mo",
+				"mobswiper"
+			],
+			[
+				"mob",
+				"mobswiper〔variable〕"
+			],
+			[
+				"dest",
+				"destroyMobslider"
+			],
+			[
+				"win",
+				"winWidth〔argument〕"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"wind",
+				"winWidth"
+			],
+			[
+				"remoe",
+				"removeClass('active"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ip",
+				"important"
+			],
+			[
+				"dy",
+				"dynamic_width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 19040,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "second-page.html",
+			"settings":
+			{
+				"buffer_size": 7780,
+				"line_ending": "Unix",
+				"name": "<html>"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/kili/org/Work done - Week ending 21 Nov",
+		"/var/www/html/kili/tubargain/index.html",
+		"/var/www/html/kili/bata/index-mobile.html",
+		"/var/www/html/freelance/giving.sg/html/css/giving-styles.css",
+		"/var/www/html/freelance/giving.sg/html/js/alternate.js",
+		"/var/www/html/freelance/giving.sg/html/css/giving-blue-styles.css",
+		"/var/www/html/freelance/giving.sg/html/1205-donation-summary-logged-ind.html",
+		"/var/www/html/freelance/giving.sg/html/3201-view-campaign.html",
+		"/var/www/html/freelance/giving.sg/html/3200-view-campaign-not-logged.html",
+		"/var/www/html/freelance/giving.sg/html/1000-npo-detail.html",
+		"/var/www/html/freelance/giving.sg/html/1010-npo-listing-causes.html",
+		"/var/www/html/freelance/giving.sg/html/index.html",
+		"/var/www/html/freelance/giving.sg/html/1002-npo-detail-no-impact-campaign.html",
+		"/var/www/html/freelance/giving.sg/html/1001-npo-detail-no-impact.html",
+		"/var/www/html/freelance/giving.sg/html/css/selectordie.css",
+		"/var/www/html/freelance/giving.sg/html/css/uf-dockbar-navbar.css",
+		"/var/www/html/freelance/giving.sg/html/make-donation.html",
+		"/var/www/html/freelance/giving.sg/html/408-volunteer-activity.html",
+		"/var/www/html/freelance/giving.sg/html/210-set-up-donation-step2.html",
+		"/var/www/html/freelance/giving.sg/html/10100-search-results.html",
+		"/var/www/html/freelance/giving.sg/html/1005-npo-listing.html",
+		"/var/www/html/freelance/giving.sg/html/3280-campaign-landing.html",
+		"/var/www/html/freelance/giving.sg/html/signup-npo-step3.html",
+		"/var/www/html/freelance/giving.sg/html/380-footer.html",
+		"/var/www/html/freelance/giving.sg/html/signup-npo-step2.html",
+		"/var/www/html/freelance/giving.sg/html/4505-dashboard-profile.html",
+		"/var/www/html/freelance/giving.sg/html/css/nl-forms.css",
+		"/home/ryan/Documents/project/Helpers",
+		"/var/www/html/freelance/giving.sg/html/1000-npo-detail-highpoint.html",
+		"/var/www/html/freelance/giving.sg/html/1117-quick-view-basket.html",
+		"/var/www/html/freelance/giving.sg/html/1160-view-gift-basket.html",
+		"/var/www/html/freelance/giving.sg/html/1165-view-gift-basket-logged.html",
+		"/var/www/html/freelance/giving.sg/html/1166-view-gift-basket-logged.html",
+		"/var/www/html/freelance/giving.sg/html/2000-start-campaign.html",
+		"/var/www/html/freelance/giving.sg/html/771-assign-leader.html",
+		"/var/www/html/freelance/giving.sg/html/773-volunteer-signup.html",
+		"/var/www/html/freelance/giving.sg/html/205-set-up-donation-step1.html",
+		"/var/www/html/freelance/giving.sg/html/769-mark-attendance.html",
+		"/var/www/html/freelance/giving.sg/html/768-contact-list.html",
+		"/var/www/html/freelance/giving.sg/html/353-set-up-volunteer.html",
+		"/var/www/html/freelance/giving.sg/html/215-set-up-donation-step3.html",
+		"/var/www/html/freelance/giving.sg/html/login.html",
+		"/var/www/html/freelance/giving.sg/html/login-reset-pwd.html",
+		"/var/www/html/freelance/giving.sg/html/make-donation-logged.html",
+		"/var/www/html/freelance/giving.sg/html/make-donation-logged-ind-user.html",
+		"/var/www/html/freelance/giving.sg/html/signup.html",
+		"/var/www/html/freelance/giving.sg/html/signup-npo-step1.html",
+		"/var/www/html/freelance/giving.sg/html/signup-verifyemail.html",
+		"/var/www/html/freelance/giving.sg/html/Changes to html:",
+		"/var/www/html/freelance/giving.sg/html/css/custom.css",
+		"/var/www/html/freelance/giving.sg/html/js/jquery.main.js",
+		"/var/www/html/freelance/giving.sg/html/js/unminified-menu-controls.js",
+		"/var/www/html/freelance/giving.sg/html/js/everything.js",
+		"/var/www/html/freelance/giving.sg/ColorChange/index-ci.html",
+		"/var/www/html/freelance/giving.sg/html/815-modal.html",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/Typography:",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/giving-styles.css",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/custom.css",
+		"/home/ryan/Downloads/jquery.main.js",
+		"/var/www/html/freelance/giving.sg/html/index-ci.html",
+		"/var/www/html/freelance/giving.sg/html/js/everything.jsp",
+		"/home/ryan/Desktop/uf-dockbar-navbar.css",
+		"/home/ryan/Desktop/tracking/changes to giving-styles.css",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/selectordie.css",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/jquery.main.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/common.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/JS.js",
+		"/home/ryan/Desktop/tracking/changes to giving-styles.css:",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/uf-dockbar-navbar.css",
+		"/var/www/html/ceva/basco2/public/bktadmin/js/dashboard.js",
+		"/var/www/html/ceva/basco2/public/bktadmin/js/flot.chart.init.js",
+		"/var/www/html/ceva/basco2/public/bktadmin/js/scripts.js",
+		"/var/www/html/ceva/basco2/public/js/basco-custom.js",
+		"/var/www/html/ceva/basco2/app/views/layouts/dashboard.blade.php",
+		"/var/www/html/ceva/basco2/app/views/items/create.blade.php",
+		"/var/www/html/ceva/meridian/siteadmin/header.php",
+		"/var/www/html/freelance/giving.sg/html/css/giving-ci.css",
+		"/home/ryan/Desktop/tracking/tracking-giving.css",
+		"/var/www/html/freelance/giving.sg/html/html-changes.html",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/custom-modal-close.css",
+		"/home/ryan/Desktop/tracking/buttonheights.txt",
+		"/home/ryan/Downloads/bootstrap (1)/js/bootstrap.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/unminified-menu-controls.js",
+		"/home/ryan/Desktop/pre-giving-styles.css",
+		"/var/www/html/freelance/giving.sg/html/css/set-giving-styles.css",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/home.htm",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/Welcome - Giving.SG.htm",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/barebone.jsp",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/givingsg-theme/css/giving-styles.css",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/Gruntfile.js",
+		"/home/ryan/Desktop/cssbg",
+		"/home/ryan/Desktop/js.bg",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/menu.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/main.js",
+		"/var/www/html/freelance/giving.sg/untitle",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/init.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/ru.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/files/validate.js",
+		"/var/www/html/freelance/giving.sg/preproduction.giving.sg/Welcome-Giving.SG.html",
+		"/home/ryan/Desktop/interactions.save.js",
+		"/home/ryan/Desktop/interactions.js",
+		"/home/ryan/Desktop/Welcome-Giving.SG.html",
+		"/home/ryan/Desktop/css-bckup.css",
+		"/media/ryan/64322A7C322A537A/Users/Cyprian/Desktop/html/css/giving-styles.css",
+		"/var/www/html/freelance/giving.sg/html/js/bootstrap-modal-popover.js",
+		"/var/www/html/freelance/giving.sg/html/js/bootstrap-modal-popover-custom.js",
+		"/home/ryan/Desktop/alternate.js",
+		"/var/www/html/freelance/giving.sg/html/479-assign-leader.html",
+		"/var/www/html/freelance/giving.sg/html/481-contact-list.html",
+		"/var/www/html/freelance/giving.sg/html/480-mark-attendance.html",
+		"/var/www/html/freelance/giving.sg/html/478-volunteer-signup.html",
+		"/var/www/html/freelance/giving.sg/html/481.html",
+		"/var/www/html/typeahead/test.json",
+		"/var/www/html/typeahead/super.html",
+		"/home/ryan/Downloads/wick_0.1/sample_data.js",
+		"/home/ryan/Downloads/wick_0.1/wick.js",
+		"/home/ryan/Downloads/sort-bundle/2-sort-dropdown-control.html",
+		"/var/www/html/freelance/giving.sg/html/UI-Checkbox-master/checkbox.min.js",
+		"/var/www/html/freelance/giving.sg/html/UI-Checkbox-master/index.js",
+		"/var/www/html/freelance/giving.sg/html/408.html",
+		"/var/www/html/freelance/giving.sg/html/js/readmore.min.js",
+		"/home/ryan/Desktop/cargopress.chillyorange.com/js/custom.js",
+		"/var/www/html/freelance/giving.sg/html/css/bootstrap.css",
+		"/home/ryan/Desktop/cargopress.chillyorange.com/css/style.css",
+		"/home/ryan/Desktop/cargopress.chillyorange.com/index.html",
+		"/home/ryan/Desktop/form.php",
+		"/var/www/html/freelance/giving.sg/html/353.html",
+		"/home/ryan/Downloads/markup2/css/giving-stylesm.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"np",
+			"see-more",
+			"<div class=\"details text-center\">\n							<a href=\"second-page.html\"><h4>Four piece velvet duvet cover set Multicolor 5*6</h4></a>\n							<h5>Ksh 11,399</h5>\n						</div>",
+			"<div class=\"details text-center\">\n							<a href=\"#\"><h4>Infinix Hot Note X551</h4></a>\n							<h5>Ksh 11,399</h5>\n						</div>",
+			"img/combo-",
+			"img/landing/",
+			"fbu",
+			"153-240",
+			"href=\"#\"",
+			"of4",
+			"<a href=\"\"><h4>Four piece velvet duvet cover set Multicolor 5*6</h4></a>",
+			"<a href=\"\"><h4>Loving Life--EA-Egg Steamer (Kitchen item) Yellow</h4></a>",
+			"<h4>Four piece velvet duvet cover set Multicolor 5*6</h4>",
+			"<h4>Infinix Hot Note X551</h4>",
+			"<img src=\"img/304_04926352653317978_240.jpg\" class=\"img-responsive\">",
+			"<div class=\"product\">",
+			"short",
+			"Our Campa",
+			"our campa",
+			"our cam",
+			"swiper-wrapper",
+			"setup-dtn-carousel",
+			"swiper-wrapper",
+			"swiper",
+			"no-btn",
+			"swiper",
+			"swiper-auto",
+			"980",
+			">>>",
+			"feature",
+			"HEAD",
+			">>>",
+			">",
+			">>>",
+			"===",
+			".s",
+			".success",
+			"#donate-buttons button.active",
+			".active",
+			"swiper-button",
+			"cpn-sgtn-item",
+			"npoCarou",
+			"980",
+			"===",
+			"<i class=\"fa\"><img class=\"icon m-top-5\" src=\"images/ico-giving-basket-80.png\" width=\"20\"></i>",
+			"===",
+			".cpn-sgtn-item:hover",
+			"button",
+			".btn-success",
+			".btn",
+			":hover",
+			"button",
+			".home-slider .swiper-button-prev, .home-slider .swiper-button-next",
+			"979",
+			"carouse;",
+			"and",
+			"#main-nav ul a:hover, #main-nav ul a.current",
+			"1200",
+			"768",
+			"#main-nav",
+			"#uf-dockbar-hamburger-menu {\n  display: none;\n}",
+			"inline-search",
+			"search",
+			"modal",
+			"#cc6699",
+			"74ac40",
+			"card",
+			"<img src=\"images/img-placeholder-4.png\" width=\"270\">\n															<span class=\"cpn-featured-status\">Tax Deductible</span>",
+			"<img src=\"images/img-placeholder-4.png\">",
+			"pre-footer",
+			"input",
+			"search",
+			"header",
+			"menu",
+			"preset",
+			"z-",
+			"black",
+			"p-ti",
+			".donors-area .dr-img",
+			"input",
+			"search",
+			"sta",
+			"#uf-dockbar-hamburger-menu a, #uf-dockbar-right-menu a",
+			"ham",
+			"brand",
+			"logo",
+			"#main-nav",
+			"#999",
+			"#999\n",
+			"#666\n",
+			"child(2)",
+			"speed-in",
+			"block.email",
+			"data",
+			"#copy",
+			"h1",
+			".aui .control-group input:focus, .aui .control-group select:focus, .aui .control-group textarea:focus",
+			"focus",
+			".row-fluid .social-share a",
+			"gauge",
+			"#B94A48",
+			".aui .control-group.success textarea {\n  color: #91C2AF !important;\n  color: #91C2AF !important; }\n",
+			".aui .control-group.error .control-label, .aui .control-gr",
+			".aui .control-group.error .control-label, .aui .control-group.error .help-block, .aui .control-group.error .help-inline",
+			"#B94A48",
+			"#B94A48 !important",
+			".select-like .dropdown-menu li a:hover, .select-like .dropdown-menu li a:focus, .select-like .dropdown-menu li.active a, .dropdown-menu li a:hover, .dropdown-menu li a:focus, .dropdown-menu li.active a",
+			"btn-gho",
+			"btn",
+			"no-wrap",
+			"dash",
+			".select-like .dropdown-menu li a:hover, .select-like .dropdown-menu li a:focus, .dropdown-menu li a:hover, .dropdown-menu li a:focus",
+			"dropdown",
+			"dropdpwn",
+			"background: #f7f7f7!important;",
+			"background: #f7f7f7 !important;",
+			"#f9f9f7",
+			".select-like .dropdown-menu li a:hover, .select-like .dropdown-menu li a:focus",
+			".select-like .dropdown-menu li a:hover, .select-like .dropdown-menu li a:focus, .select-like .dropdown-menu li.active a, .dropdown-menu li a:hover, .dropdown-menu li a:focus, .dropdown-menu li.active a",
+			".btn",
+			"#75b9f0",
+			".error",
+			"#75b9f0",
+			".aui .control-group input.form-control:focus",
+			".aui .control-group input.form-control:focus, .aui .control-group input.field:focus",
+			"and",
+			".social-share a i",
+			".data-list li .person-actions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"img/combo-sbu-",
+			"img/",
+			"href=\"second-page.html\"",
+			"of5",
+			"<a href=\"#\"><h4>Four piece velvet duvet cover set Multicolor 5*6</h4></a>",
+			"<a href=\"\"><h4>Four piece velvet duvet cover set Multicolor 5*6</h4></a>",
+			"<a href=\"#\"><h4>Infinix Hot Note X551</h4></a>",
+			"<a href=\"#\"><img src=\"img/304_04926352653317978_240.jpg\" class=\"img-responsive\"></a>",
+			"<div class=\"product of4\">",
+			"short",
+			"$5",
+			"#BCE6FB",
+			"<a href=\"\">\n															<img src=\"images/img-placeholder-4.png\" width=\"270\">\n														</a>",
+			"cpn-sgtn-item corp-blue",
+			"\"files/sh_bkt_48.png\"",
+			"image/journal",
+			"",
+			"prop(\"disabled\", true);",
+			"href=\"#modal481\"",
+			"</button>\n																			<ul class=\"dropdown-menu text-left\">\n																				<li><a href=\"#\">Reject</a></li>\n																				<li><a href=\"#\">Make Leader</a></li>\n																			</ul>",
+			"<div class=\"span2\">\n																<label class=\"visible-phone small\">Check-In</label>",
+			"<div class=\"span9\">\n																<label class=\"visible-phone small\">Name</label>",
+			"",
+			" <input type=\"checkbox\" class=\"volunteer-check\">",
+			" <input type=\"checkbox\" class=\"volunteer-check indeterminate\">",
+			" <input type=\"checkbox\" class=\"volunteer-check\">",
+			" ",
+			"<div class=\"span1 m-top15 prn-chk-bx\">",
+			"span7 person-actions",
+			"span4 person",
+			"<span class=\"smaller gender\">Male</span>",
+			"<span class=\"smaller gender\">Female</span>",
+			"<button type=\"button\" class=\"btn btn-danger\" value=\"accept\">Accept</button>",
+			"<button type=\"button\" class=\"btn btn-danger\">Accept</button>",
+			"images/img-avatar-05.png",
+			"<li class=\"active\"><a href=\"#\">Accept</a></li>",
+			"non-respv",
+			"img-avatar-35x35-02.png",
+			"<span class=\"em\">openings</span>",
+			"left-mobile left-tablet",
+			"textarea rows=\"10\" max-length=\"500\"",
+			"skill",
+			"border:1px solid #cccccc",
+			"form span8",
+			"class=\"collapse visible-desktops",
+			"acc-toggle landing",
+			"cause-box block-mobile",
+			"cause-box inline-mobile",
+			"cause-box.inline-mobile",
+			"class=\"small\">Jenny Ng",
+			"visible-phone",
+			"Organisation",
+			"upload",
+			"$g",
+			"$_POST",
+			"form-group",
+			"col-md-9",
+			"col-md-6",
+			"\"Lato\", Helvetica, sans-serif",
+			"Form",
+			"#eaeaea",
+			"#f8f8f8",
+			"270px",
+			" #a50e34",
+			" ",
+			"alert-default",
+			"'Futurastd'",
+			"Futurastd",
+			"street",
+			"target=\"_parent\" class=\"read-more\"",
+			"width",
+			"#333333",
+			"Bariol"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4671,
+								4675
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "second-page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5196,
+								5196
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bf.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/Oak/sass/app.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/freelance/giving.sg/html/giving.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

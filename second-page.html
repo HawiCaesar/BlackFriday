@@ -1,0 +1,299 @@
+<html>
+<head>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+	<!-- THIS META TAG ENABLES RESPONSIVITY, MUST BE INCLUDED!! -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<style>
+
+	body{background-color: #f5f5f5;}
+	
+	.row-heading{
+		display: block;
+		width: 100%;
+		height: auto;
+		margin-bottom: 30px;
+	}
+	.row-heading.sbu{
+		background-color: #BF1E2E;
+	}
+	.row-heading.fbu{
+		background-color: #D2108D;
+	}
+	.row-heading.hbu{
+		background-color: #0D75BC;
+	}
+	.row-heading.combo{
+		background-color: #FFC50C;
+	}
+	.mt10{
+		margin-top: 10px;
+	}
+	.mb10{
+		margin-bottom: 10px;
+	}
+	.column{padding: 0 10px;}
+
+	[data-columns] > div{
+		float: left;
+	}
+	.cols4[data-columns]::before {
+		content: '4 .column.size-1of4';
+	}
+	.size-1of4 {
+		width: 25%;
+	}
+	.product{
+		text-align: center;
+		background-color: #fff;
+		margin-top:10px;
+		border-radius: 6px;
+		overflow: hidden;
+		padding-bottom: 10px;
+	}
+	.product:hover{
+		box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	}
+	.details{
+		padding: 5px 15px;
+	}
+	.product a{
+		color: #333;
+	}
+	.product a:hover{
+		color: #F44336;
+	}
+	.product img{
+		margin: 0 auto;
+		max-height: 400px;
+		width:100%;
+	}
+	.details h5{
+		color: #C00;
+		font-weight: 800;
+	}
+
+
+	/* Products without details*/
+	.section--hbu .details, .details{
+		display: none;
+	}
+
+	/* Product without padding for image*/
+	.section--fbu .product{
+		padding-bottom: 0;
+	}
+
+	@media(max-width: 767px){
+		.row-heading{
+			margin-bottom: 5px;
+		}
+
+		.column{
+			width: 100%;
+			padding: 0;
+		}
+		.product{
+			width: 48%;
+			float:left;
+		}
+		.product:nth-child(2n){
+			margin-left: 1%;
+		}
+		.product:nth-child(2n+1){
+			margin-right: 1%;
+		}
+	}
+
+</style>
+
+<body>
+
+	<div class="container-fluid">
+		<!--@start sbu -->
+		<div class="row mb10">
+			<div class="col-lg-12">
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/gateway.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html#link1"><h4>INFINIX Zero 2 X509,32GB ROM, 13 MP CAMERA Red</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/hotnote.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html#link2"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/huawei-y221.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html"><h4>X-TIGI A7 smartphone, 8GB ROM,8.0 MP CAMERA, </h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/J1.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html"><h4>X-TIGI A5 SMARTPHONE,4.0 SCREEN, 5.0 MP White</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/fly-dune.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html"><h4>CUBOT P11 SMARTPHONE, 5.0 HD, 5.1 LOLLIPOP, 8GB </h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/cubot-p11.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html"><h4>Cubot X16, 5</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/C8.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="second-page.html"><img src="img/blu-jenny.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="second-page.html"><a href="second-page.html"><h4>Infinix Hot Note X551</h4></a></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+				</div>
+			</div>
+		</div>
+		<!--@end sbu-->
+
+		<!--@start fbu -->
+		<div class="row mt10 mb10">
+			<div class="col-lg-12 section--fbu" style="background:#fff;">
+				<div class="row-heading">
+					<!-- <img src="img/header-fbu.png"> -->
+					<h3>You may also like these other phones</h3>
+				</div>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/A.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/B.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/C.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/D.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/E.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/F.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/G.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="#"><img src="img/H.jpg" class="img-responsive"></a>
+						<div class="details text-center">
+							<a href="#"><h4>Infinix Hot Note X551</h4></a>
+							<h5>Ksh 11,399</h5>
+						</div>
+					</div>
+					<!--@end product-->
+				</div>
+			</div>
+		</div>
+		<!--@end fbu-->
+
+	</div><!--eind of container-->
+
+	<script src="files/salvattore.min.js"></script>
+</body>
+</html>

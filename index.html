@@ -1,0 +1,625 @@
+<html>
+<head>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+	<!-- THIS META TAG ENABLES RESPONSIVITY, MUST BE INCLUDED!! -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<style>
+
+	body{background-color: #f5f5f5;}
+	
+	.row-heading{
+		display: block;
+		width: 100%;
+		height: auto;
+		margin-bottom: 30px;
+	}
+	.row-heading img{max-width: 100%;width: 100%;}
+	.row-heading.sbu{
+		background-color: #BF1E2E;
+	}
+	.row-heading.combo{
+		margin-bottom: 0;
+	}
+	.mt10{
+		margin-top: 10px;
+	}
+	.mb10{
+		margin-bottom: 10px;
+	}
+	.column{padding: 0 10px;}
+
+	[data-columns] > div{
+		float: left;
+	}
+	.cols4[data-columns]::before {
+		content: '4 .column.size-1of4';
+	}
+	.size-1of4 {
+		width: 25%;
+	}
+	.link-see-more{
+		height: 40px;
+		width: 100%;
+		background: url(img/see-more-bg.jpg) center bottom;
+		margin-top: 10px;
+	}
+	.link-see-more img{
+		display: block;
+		height: auto;
+		margin: 0 auto;
+	}
+	.product{
+		text-align: center;
+		background-color: #fff;
+		margin-top:10px;
+		border-radius: 6px;
+		overflow: hidden;
+		padding-bottom: 10px;
+	}
+	.product:hover{
+		box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	}
+	.details{
+		padding: 5px 15px;
+	}
+	.product a{
+		color: #333;
+	}
+	.product a:hover{
+		color: #F44336;
+	}
+	.product img{
+		margin: 0 auto;
+		max-height: 400px;
+		width:100%;
+	}
+	.details h5{
+		color: #C00;
+		font-weight: 800;
+	}
+
+	/* Products without details*/
+	.section--hbu .details, .details{
+		display: none;
+	}
+
+	/* Product without padding for image*/
+	.section--fbu .product, .np{
+		padding-bottom: 0;
+	}
+
+	/* Products with extra padding */
+	.section--combo .product{
+		padding:10px;
+	}
+	.section--combo .product img{
+		width: 80%;
+	}
+
+	@media(max-width: 767px){
+		.row-heading{
+			margin-bottom: 5px;
+		}
+		.column{
+			width: 100%;
+			padding: 0;
+		}
+		.product{
+			width: 48%;
+			float:left;
+		}
+		.product:nth-child(2n){
+			margin-left: 1%;
+		}
+		.product:nth-child(2n+1){
+			margin-right: 1%;
+		}
+		.section--hbu .column{
+			width: 48%;
+		}
+		.section--hbu .column:nth-child(2n){
+			margin-left: 1%;
+		}
+		.section--hbu .column:nth-child(2n+1){
+			margin-right: 1%;
+		}
+		.section--hbu .product{
+			width: 100%;
+		}
+
+	}
+
+</style>
+
+<body>
+
+	<!--@start  steps banner -->
+	<div class="row">
+		<div class="col-lg-12">
+			<!-- <img class="img-responsive" src="img/Landing.jpg"> -->
+		</div>
+	</div>
+	<!--@end steps banner-->
+
+	<!--@start next banner -->
+	<div class="row">
+		<div class="col-lg-12">
+			<img class="img-responsive" src="img/top_banner.jpg">
+			<img class="img-responsive" src="img/banner-timelimited.jpg">
+		</div>
+	</div>
+	<!--@end next banner-->
+
+
+	<div class="container-fluid">
+
+		<!--@start harakisha deals -->
+		<div class="row mb10">
+			<div class="col-lg-12">
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/item-12788-Coca-Cola-350ml.html"><img src="img/time-limited-coke.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/item-1979-Kingkey-Learning-Toys-High-quality-Puzzle.html"><img src="img/time-limited-toys.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/flash-sales.html"><img src="img/time-limited-cubot.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/flash-sales.html"><img src="img/time-limited-bag.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/item-6711-Loving-Life--EA-High-Quality-Lint-Remover%2528Kitchen-item%2529.html"><img src="img/time-limited-lint.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/bata/"><img src="img/time-limited-bata.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/flash-sales.html"><img src="img/time-limited-duvet.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/flash-sales.html"><img src="img/time-limited-pans.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4 np">
+						<a href="http://www.kilimall.co.ke/flash-sales.html"><img src="img/time-limited-tv.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+				<!--@end of harakisha-->
+			</div>
+		</div>
+
+		<!--@start sbu -->
+		<div class="row mb10">
+			<div class="col-lg-12">
+				<div class="row-heading">
+					<img src="img/header-sbu.png">
+				</div>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Blu&category=Smartphone"><img src="img/Blu.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Xtigi&category=Smartphone"><img src="img/Xtigi-s1450.jpg" alt="s1450" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+						<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Bird&category=Smartphone"><img src="img/Bird.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+						<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Cubot&category=Smartphone"><img src="img/cubot-P11_2.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Samsung&category=Smartphone"><img src="img/Galaxy-J1.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Infinix&category=Smartphone"><img src="img/hotnote.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Tecno&category=Smartphone"><img src="img/Tecno.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="index-logic.php?brand=Wiko&category=Smartphone"><img src="img/wiko.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+			</div>
+		</div>
+		<!--@end sbu-->
+
+		<!--@start fbu -->
+		<div class="row mt10 mb10">
+			<div class="col-lg-12 section--fbu">
+				<div class="row-heading">
+					<img src="img/header-fbu.png">
+				</div>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=PlayToys&category=Fashion"><img src="img/A.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=HumanHair&category=Fashion"><img src="img/B.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=HandBags&category=Fashion"><img src="img/C.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=BabyProducts&category=Fashion"><img src="img/D.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=LaptopBags&category=Fashion"><img src="img/E.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=Lingerie&category=Fashion"><img src="img/F.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=Dresses&category=Fashion"><img src="img/G.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of5">
+						<a href="index-logic.php?brand=HairDryers&category=Fashion"><img src="img/H.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+			</div>
+		</div>
+		<!--@end fbu-->
+		
+
+		<!--@start hbu -->
+		<div class="row mt10 mb10">
+			<div class="col-lg-12 section--hbu">
+				<div class="row-heading">
+					<img src="img/header-hbu.png">
+				</div>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-11454-Loving-Life--EA-Egg-Steamer-%2528Kitchen-item%2529-Yellow.html"><img src="img/F1,a.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-8868-TAG-Kitchen--Stainless-Steel-Onion-Chopper.html"><img src="img/F1,b.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-8871-TAG-Kitchen--24-CUP-MUFFIN-BAKING-TRAY---BAKER%2527S-SECRET.html"><img src="img/F1,c.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-7380-Loving-Life--Tableware-24-Fork-And-knife-set-04-%2528Kitchen-item%2529.html"><img src="img/F1,d.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+				<a class="col-lg-12 link-see-more" href="#">
+					<img src="img/more-button.jpg">
+				</a>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-9810-Kitchen-7-piece-cooking--pots--Sufurias-with-handles-and-lids.html"><img src="img/F2,a.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-11709-KITCHEN-Genius-Nicer-Dicer-Plus-Multi-Chopper-12-Pieces-Green.html"><img src="img/F2,b.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-11307-Kitchen-Stainless-Steel-Dish-Rack--2-Tier.html"><img src="img/F2,c.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-9693-Kitchen-Spice-Organizer--Creative-Tree-Shaped-Pop-up-Spice-Rack-with-6-Spice-Container.html"><img src="img/F2,d.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+				<a class="col-lg-12 link-see-more" href="#">
+					<img src="img/more-button.jpg">
+				</a>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-10332-Pink-Telken-7-Piece-Non-Stick-Cookware-Kitchen-Set.html"><img src="img/F3,a.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-10313-Kitchen-Pancake-Maker--Round-Shape.html"><img src="img/F3,b.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-5471-Non-Stick-kitchen-serving-spoons--7-Pieces..html"><img src="img/F3,c.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-10312-Stainless-Rice-pasta-cooker---4L-Rice-cooker.html"><img src="img/F3,d.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+				<a class="col-lg-12 link-see-more" href="#">
+					<img src="img/more-button.jpg">
+				</a>
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-2581-Four-piece-pure-cotton-duvet-cover-sets-double-color-5%252A6.html"><img src="img/F4,a.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-9647-Yellow-duvet-with-flower-details-xh569-Multicolor-5%252A6.html"><img src="img/F4,b.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-8893-Four-piece-High-quality-thick-100%2525cotton-duvet-cover-sets-Multicolor-5%252A6.html"><img src="img/F4,c.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-9995-Two-piece-multicolor-pillow-case-%2528New-richcel-cotton%2529-Multicolor-48cm%252A76cm.html"><img src="img/F4,d.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+				<a class="col-lg-12 link-see-more" href="#">
+					<img src="img/more-button.jpg">
+				</a>
+			</div>
+		</div>
+		<!--@end hbu-->
+
+		<!--@start combo -->
+		<div class="row mt10 mb10">
+			<div class="row-heading combo">
+				<img src="img/banner-combo.jpg">
+			</div>
+			<div class="col-lg-12 section--combo">
+				<div class="products cols4" data-columns>
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12965-Kitchen-cooking-pots%252C-9L-pressure-cooker.html"><img src="img/combo-hbu-1.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12937-http%253A--www.kilimall.co.ke-item-8775-TAG-Kitchen--7-PIECES-HEAT-RESISTANT-NON-STICK-COOKING-POT-SETS%25252528ENAMELED%25252529.html.html"><img src="img/combo-hbu-2.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12945-TAG-Kitchen--7-Speed-Hand-Mixer%252C-hand-electric-mixer-electric-eggbeater-automatic-whisk.html"><img src="img/combo-hbu-3.jpg" class="img-responsive"></a>
+						 
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12957-TAG-Kitchen--Dessini-Double-side-grill-36cm-pan-Kitchen-pots.html"><img src="img/combo-hbu-4.jpg" class="img-responsive"></a>
+						 
+					</div>
+					<!--@end product-->
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-13005-TWO-FRIDGE-PURIFIER.html"><img src="img/combo-hbu-5.jpg" class="img-responsive"></a>
+						 
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-13008-CAR-PURIFIER.html"><img src="img/combo-hbu-6.jpg" class="img-responsive"></a>
+						 
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12997-STAINLESS-DISH-DRAINER.html"><img src="img/combo-hbu-7.jpg" class="img-responsive"></a>
+						 
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12998-One-Piece-Multicolored-Duvet-Cover-%2528New-Richcel-Cotton%2529-Multicolor-5%252A6.html"><img src="img/combo-hbu-8.jpg" class="img-responsive"></a>
+						 
+					</div>
+					<!--@end product-->
+					<!--@end HBU combos-->
+
+					<!--@start FBU combos-->
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12881-Ankle-Socks.html"><img src="img/combo-fbu-1.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12963-Lingerie.html"><img src="img/combo-fbu-2.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12919-Female-watch.html"><img src="img/combo-fbu-3.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12912-Laptop-bag.html"><img src="img/combo-fbu-4.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12906-Hand-bag.html"><img src="img/combo-fbu-5.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12948-Hair-drier.html"><img src="img/combo-fbu-6.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12930-Hair-drier.html"><img src="img/combo-fbu-7.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-269-HAIR-DRYER-%2528ZF-3001%2529.html"><img src="img/combo-fbu-8.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+					<!--@end of FBU combos-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12914-X-TIGI-X8-SMARTPHONE%252C-13-MP%252C-16GB-ROM%252C-2-GB-RAM-%252B-5000mAH-POWERBANK-Black.html"><img src="img/combo-sbu-1.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12938-TECNO-CAMON-C5%252C-5.0%2526quot%253B-HD%252C-5.0-LOLLIPOP%252C-8GB-ROM-%252B-8-GB-MEM-CARD-Black.html"><img src="img/combo-sbu-2.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12040-Fly-Dune-IQ4503%252C-5.0%2526quot%253BHD%252C-4GB-ROM%252C-QUAD-CORE-1.2GHZ%252C-5MP-%252B-FLY-T-SHIRT.html"><img src="img/combo-sbu-3.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12966-SAMSUNG-GALAXY-J5%252C-5.0%2526quot%253B-HD%252C-8GB-ROM%252C-1.5GB-RAM%252C-13MP-%252B-STYLISH-BACK-COVER-Black.html"><img src="img/combo-sbu-4.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12990-SAMSUNG-J1-ACE-QUAD-CORE-1.2GHZ%252C-4GB-ROM-5MP-%252B-FREE-STYLISH-BACK-COVER-Black.html"><img src="img/combo-sbu-5.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12039-Fly-Eclipse-3-IQ-4514%252C-5.0%2526quot%253BHD%252C-8GB-ROM%252C-1GB-RAM%252C-QUADCORE-1.3GHZ%252C-8MP.html"><img src="img/combo-sbu-6.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-9442-Wiko-Highway-Smartphone-Black.html"><img src="img/combo-sbu-7.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+
+					<!--@start product-->
+					<div class="product of4">
+						<a href="http://www.kilimall.co.ke/item-12847-WIKO-LENNY%252C-4GB-ROM%252C-DUO-CORE-1.3GHZ%252C-5MP-CAMERA-Black.html"><img src="img/combo-sbu-8.jpg" class="img-responsive"></a>
+					</div>
+					<!--@end product-->
+				</div>
+			</div>
+		</div>
+		<!--@end combo-->
+
+	</div><!--eind of container-->
+
+	<script src="files/salvattore.min.js"></script>
+</body>
+</html>
