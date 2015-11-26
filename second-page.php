@@ -4,7 +4,7 @@
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 	<!-- THIS META TAG ENABLES RESPONSIVITY, MUST BE INCLUDED!! -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
+	<title>Black Friday Deals @ Kilimall</title>
 </head>
 
 <style>
@@ -122,7 +122,7 @@
 					<?php $brand_selected_group = $_SESSION['selected_brand'];
 								foreach($brand_selected_group as $brand_selected): ?>
 					<div class="product of4">
-						<a href="<?php echo $brand_selected['url']; ?>"><?php echo $brand_selected['product']; ?><img src="<?php echo $brand_selected['image']; ?>" class="img-responsive"></a>
+						<a href="<?php echo $brand_selected['url']; ?>"><img src="<?php echo $brand_selected['image']; ?>" class="img-responsive"></a>
 						<div class="details text-center">
 							<a href="#"><h4><?php //echo $brand_selected['product'];?></h4></a>
 							<h5><?php //echo 'Kshs '.number_format($brand_selected['blackfriday_price'],0,'',','); ?></h5>
